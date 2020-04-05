@@ -22,7 +22,7 @@ copyright = '2020, Dugufei'
 author = 'Dugufei'
 
 # The full version, including alpha/beta/rc tags
-release = 'stable'
+release = '0.0.1'
 
 
 # -- General configuration ---------------------------------------------------
