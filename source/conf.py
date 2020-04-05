@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Note'
+project = 'DuguNote'
 copyright = '2020, Dugufei'
 author = 'Dugufei'
 
